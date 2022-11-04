@@ -3,7 +3,7 @@
 ## Licensing and Dev notes
 This app was made using Turbowarp - a modified Scratch editor, therefore, this project has the MIT license. The license's terms are the following:
 ```
-Copyright (c) <year> <copyright holders>
+Copyright (c) 2022 TPEcool
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
