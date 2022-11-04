@@ -1,5 +1,6 @@
 # Game-Idea-Generator
 **Game Idea Generator** is a tool which can generate simple game ideas for you. No matter if it's for a school project you want to make on Scratch or an Unreal Engine 5 game that you are going to sell on Steam - this tool will assist you in idea generation. You can even save up to ten game ideas and they will be saved on your device!
+This app was packaged using Turbowarp Packager.
 ## Licensing and Dev notes
 This app was made using Turbowarp - a modified Scratch editor, therefore, this project has the MIT license. The license's terms are the following:
 ```
