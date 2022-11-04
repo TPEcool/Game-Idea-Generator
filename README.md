@@ -23,3 +23,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+- When uploading a game inspired from this generator's results, it is recommended that you credit this generator. The same goes for any YouTube videos or any other content which uses this generator's ideas.
